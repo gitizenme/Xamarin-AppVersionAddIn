@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ExtensionModel>
+	<Runtime>
+	</Runtime>
+
+	<Extension path = "/MonoDevelop/ProjectModel/ProjectModelExtensions">
+	    <Class class="AppVersion.ProjectExtensionAddIn"/>
+	</Extension>
+
+	<Extension path = "/MonoDevelop/ProjectModel/ProjectModelExtensions">
+	    <Class class="AppVersion.SolutionExtensionAddIn"/>
+	</Extension>
+	
+</ExtensionModel>

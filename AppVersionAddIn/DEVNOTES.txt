@@ -1,0 +1,35 @@
+﻿
+
+> target
+"Build"
+
+
+> Project.TargetFramework.Id.Identifier
+"MonoAndroid"
+
+> Project.TargetFramework.Id.Identifier
+".NETPortable"
+> Project.Name
+"TestFormsApp"
+> Project.TargetFramework.Id
+{.NETPortable,Version=v4.5,Profile=Profile111}
+	Identifier: ".NETPortable"
+	Profile: "Profile111"
+	Version: "4.5"
+	Static members: 
+	Non-public members: 
+> conf.Id
+"Debug"
+> conf.Name
+"Debug"
+
+> conf.Id
+"Debug|iPhoneSimulator"
+> Project.TargetFramework.Id
+{Xamarin.iOS,Version=v1.0}
+	Identifier: "Xamarin.iOS"
+	Profile: (null)
+	Version: "1.0"
+	Static members: 
+	Non-public members: 
+ 
